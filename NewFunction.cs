@@ -12,6 +12,10 @@ namespace Convertor
         {
             // Ккакой-то функционал приложения
         }
+        public static void FirstFunction()
+        {
+            //Функционал какого-то элемента
+        }
 
     }
 }
